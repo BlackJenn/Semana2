@@ -10,3 +10,6 @@ elif edad < 65:
     mensaje = "Eres un adulto"
 else:
     mensaje = "Eres un adulto mayor"
+
+print(mensaje)
+
